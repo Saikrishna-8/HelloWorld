@@ -71,10 +71,14 @@ public class DisjointSets {    // Graph
 		// TODO Auto-generated method stub
 		
 		 /* Let us create the following graph
-        0
-        | \
-        |  \
-        1---2 */
+               
+         4  5      0
+         | /      | \
+         |/       |  \
+         3--------1---2
+                
+    
+                */
 		
 		 int V = 6, E = 5;
 		 
